@@ -1,5 +1,5 @@
-<?php+
-use Illuminate\Support\Str;
+<?php
+useIlluminate\Support\Str;
 
 return [
 
